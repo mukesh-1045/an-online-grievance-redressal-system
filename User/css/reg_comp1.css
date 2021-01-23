@@ -1,0 +1,60 @@
+body
+{
+	 margin-left: 350px;
+	 
+
+}
+h2
+{
+	font-size: 35px;
+	font-family:"Times New Roman", Times, serif; 
+	margin-left: 400px;
+    margin-top: 90px;
+}
+ 
+input
+{
+	padding: 5px;
+	font-family: sans-serif;
+	width: 392px;
+ 
+}
+table
+{
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 60%;
+}
+
+td, th 
+{
+  
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+textarea
+{
+	width: 400px;
+	height: 100px;
+}
+.btn
+{
+	padding: 10px;
+	width: 150px;
+	background-color: #dddddd;
+	
+
+}
+.cl3
+{
+	text-align: center;
+	align-items: center;
+	padding-left:108%;
+	padding-top: 10%;
+	}
+ 

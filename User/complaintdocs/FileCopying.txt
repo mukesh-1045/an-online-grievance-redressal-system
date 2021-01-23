@@ -1,0 +1,29 @@
+import java.io.*;
+
+class FileCopying
+{
+public static void main(String ar[]) throws IOException
+{
+int i,x;
+
+//opening source file in read mode
+FileInputStream fi = new FileInputStream("mgmpoly2.txt");
+
+//opening destination file in write mode
+FileOutputStream fo = new FileOutputStream("mgmpoly3.txt");
+
+do
+{
+	x = fi.read();
+	if(x!=-1)
+	{
+		fo.write((char)x);
+	}
+}while(x!=-1);
+
+System.out.println("\n\nFile copied...");
+
+fi.close();
+fo.close();
+}
+}

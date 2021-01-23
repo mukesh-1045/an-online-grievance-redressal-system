@@ -1,0 +1,50 @@
+body
+{
+	margin-left: 350px;
+}
+h2
+{
+	font-size: 30px;
+	margin-left: 400px;
+	margin-left: 350px;
+	flex:left;s
+	font-family:"Times New Roman", Times, serif; 
+}
+
+h4
+{
+	margin-left: 10px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+ 
+input
+{
+	padding: 5px;
+	font-family: sans-serif;
+	width: 392px;
+}
+form
+{
+	margin-left: 80px;
+} 
+.as
+{
+	border: 2px solid black;
+}
+#btn
+{
+	color: white;
+	background-color: rgb(0,153,255);
+	height: 35px;
+	border-radius: 10px;
+	width: 150px; 
+}
+
+ /*.orange-bg .pen
+ {	
+  border: 10px solid;
+  padding: 10px;
+  box-shadow: 5px 500px;
+ }/*
+
+

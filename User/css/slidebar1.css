@@ -1,0 +1,58 @@
+body
+{
+	margin: 0;
+	padding: 0;
+
+}
+img
+{
+	border-radius: 50%;
+	text-transform: uppercase;
+	 
+} 
+.sidebar
+{
+  	position: fixed;
+	top: 0;
+	left: 0;
+	width: 250px;
+	height: 100vh;
+	background: #262626;
+	transition: .5s;
+	padding: 20px;
+	text-align: center;
+	box-sizing: border-box;
+
+}
+.sidebar .menu
+{
+	margin: 0;
+	padding: 40px 0;
+}
+.sidebar .menu li
+{
+
+	list-style: none;
+	font-family: sans-serif;
+}
+.sidebar .menu li a
+{
+   display: block;
+   padding: 10px 0;
+   text-transform: uppercase;
+   color: #fff;
+   font-size: 18px;
+   text-decoration: none;
+}
+.sidebar .menu li a:hover
+{
+	background: #fc2827;
+	color: #fff;
+ 	background-image: linear-gradient(120deg,#262626,#fc2827);
+}
+
+.form-group .col
+{
+	padding-left: 200px;
+}
+ 

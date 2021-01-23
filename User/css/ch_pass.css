@@ -1,0 +1,61 @@
+body
+{
+	background-color: gray;
+}
+
+ 
+form h1
+{
+	font-family:"Times New Roman", Times, serif; 
+    margin-left: 0px;	
+}
+form h2
+{
+	margin-left: 47px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+.c1
+{
+	margin-top: 50px;
+	margin-left: 50px;
+
+}
+.c2
+{
+	margin-top: 20px;
+	margin-left: 50px;
+}
+.c3
+{
+	margin-top: 20px;
+	margin-left: 50px;
+}
+.c1 input
+{
+	width:300px;
+	padding: 8px;
+ 	margin-left: 25px;
+ 	
+}
+ 
+.c2 input
+{
+	width:300px;
+	padding: 8px;
+	margin-left: 40px;
+}
+.c3 input
+{
+	width:300px;
+	padding: 8px;
+	margin-left: 20px;
+}
+.btn
+{	
+	color: white;
+    background-color: rgba(51,53,53,1);
+    height: 35px;
+    border-radius: 10px;
+    width: 150px;
+    margin-left: 100px;
+}

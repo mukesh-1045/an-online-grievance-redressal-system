@@ -1,0 +1,51 @@
+body
+{
+	background-image: url(img\for.jpg);
+}
+
+.c1
+{
+
+
+}
+.c1 input
+{
+	width:280px;
+	padding: 7px;
+	margin-left: 100px;
+}
+.c2
+{
+
+}
+.c2 input
+{
+	width:280px;
+	padding: 7px;
+	margin-left: 65px;
+}
+.c3
+{
+
+}
+.c3 input
+{
+	width:280px;
+	padding: 7px;
+	margin-left: 43px;
+}
+
+.c4
+{
+
+}
+.c4 input
+{
+	width:280px;
+	padding: 7px;
+	margin-left: 20px;
+}
+.btn
+{
+	margin-left: 230px;
+}

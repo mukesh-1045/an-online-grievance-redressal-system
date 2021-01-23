@@ -1,0 +1,23 @@
+import java.io.*;
+
+class NumberReverse
+{
+public static void main(String ar[]) throws IOException
+{
+int n,a,b,s;
+DataInputStream dis = new DataInputStream(System.in);
+
+System.out.println("Enter a 3 digit number");
+n = Integer.parseInt(dis.readLine());
+
+a=n%10;
+n=n/10;
+
+b=n%10;
+n=n/10;
+
+s=(a*100) + (b*10) + n;
+
+System.out.println("Reverse is : " + s);
+}
+}

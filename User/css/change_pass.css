@@ -1,0 +1,56 @@
+form
+{
+	margin-top: 100px;
+	margin-left: 600px;
+}
+form h1
+{
+	font-family: sans-serif;
+    margin-left: 0px;	
+}
+form h2
+{
+	margin-left: 10px;
+	font-family: sans-serif;
+}
+.c1 label
+{
+	margin-left: 400px;
+
+}
+.c2 label
+{
+	margin-left: 400px;
+
+}
+.c3 label
+{
+	margin-left: 400px;
+
+}
+.c1 input
+{
+	width:300px;
+	padding: 8px;
+	margin-left: 25px;
+}
+.c2
+{
+margin-left: 3px;
+}
+.c2 input
+{
+	width:300px;
+	padding: 8px;
+	margin-left: 40px;
+}
+.c3 input
+{
+	width:300px;
+	padding: 8px;
+	margin-left: 20px;
+}
+.btn
+{
+	margin-left: 100px;
+}

@@ -1,0 +1,52 @@
+body{
+	background-image: url(img/bg1.jpeg);
+}
+
+h2{
+	background-color: black;
+	color: white;
+	margin-top: 0px;
+	padding-bottom: 20px;
+}
+
+input{
+	width: 90%;
+	margin-left: 10px;
+	height: 30px;
+
+}
+
+ 
+.head ul li a{
+	text-decoration: none;
+	color: white;
+}
+
+.head ul li{
+	margin-left: 1200px;
+	list-style-type: none;
+}
+
+.div1{
+	border: 1px solid black;
+	margin-left: 400px;
+	margin-top: 100px;
+	margin-right: 400px;
+
+}
+
+.innerdiv{
+	margin-top: 0px;
+	
+	background-color: blue;
+}
+
+#bu{
+	margin-top: 15px;
+	margin-left: 290px;
+	width: 25%;
+	height: 25px;
+	margin-bottom: 10px;
+	color: black;
+	border-radius: 10px;
+}
